@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 2
+http://181.78.109.49:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
+http://186.148.195.206:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 4
+http://38.56.118.88:4000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 5
+http://38.51.232.77:8000/play/a078/index.m3u8?token=1004
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 6
+http://181.119.86.1:8000/play/a019
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 7
+http://104.238.205.28:8989/278391_.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 8
+http://177.234.230.206:8011/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 9
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 10
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 10
+https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 11
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/default.mpd
+
+

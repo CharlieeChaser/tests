@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test
-http://181.78.107.162:49000/play/a051/index.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
 
 

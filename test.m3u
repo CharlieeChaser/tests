@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test
-p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b1b91bd65ca3d8c52.ts
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
 
 

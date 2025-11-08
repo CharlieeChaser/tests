@@ -1,22 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=1&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 2
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=2&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=4&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=5&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Adult%20Swim.png",Adult Swim Test 3
+p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b1b91bd65ca3d8c52.ts
+
+

@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20XD.png",Disney XD Test 1
-http://212.102.60.231/DISNEY_XD/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/75621
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20XD.png",Disney XD Test 2
-http://149.202.215.151:8080/live/home/home/595.ts
+https://ava.karmakurama.com/zeko/premium314/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CharlieeChaser/iptv-channel-list-mx/refs/heads/main/PNG%20Icons/Disney%20XD.png",Disney XD CA Test 3
+http://cord-cutter.net:8080/bn80NG/909467/57420
 
 
 
